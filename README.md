@@ -1,6 +1,6 @@
 ### Hi! I'am Vítor Basañez! 👋
 
-- ⚡ 8th semester of Electronic/Electrical Engineering
+- ⚡ 9th semester of Electronic/Electrical Engineering
 
 <div align="center">
   <a href="https://github.com/vitorbasanez10">
@@ -22,3 +22,5 @@
   <a href="https://www.linkedin.com/in/v%C3%ADtor-basa%C3%B1ez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
   </div>
+
+  ##

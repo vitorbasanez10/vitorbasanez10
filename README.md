@@ -1,6 +1,6 @@
 ### Hi! I'am Vítor Basañez! 👋
 
-- ⚡ 9th semester of Electronic/Electrical Engineering
+- ⚡ 10th semester of Electronic/Electrical Engineering
 
 <div align="center">
   <a href="https://github.com/vitorbasanez10">
